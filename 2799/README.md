@@ -67,10 +67,10 @@ Total complete subarrays = 4
 
 ## 📸 Screenshots
 ### LeetCode Question
-image.png
+![Question Screenshot](./Question.png)
 
 ### Submission Results
-image.png
+![Result Screenshot](./Result.png)
 
 ## 💡 Notes
 - This is a brute-force approach suitable for small input sizes
