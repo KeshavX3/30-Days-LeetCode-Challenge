@@ -55,5 +55,5 @@ Feel free to:
 This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
-  <sub>Built with ❤️ by [Your Name]</sub>
+  <sub>Built with ❤️ by Keshav</sub>
 </div> 
